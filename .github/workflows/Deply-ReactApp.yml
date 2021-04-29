@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Boot Camp 2020 React App Deploy
+name: Boot Camp 2020 React App Expense Tracker Deploy
 
 # Controls when the action will run. 
 on:
